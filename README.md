@@ -1,56 +1,52 @@
-📘 Compound Interest Assignment
+Assignment – Math Problem Solver
 
-This repository contains my assignment on Compound Interest / Interest-based Questions, solved with step-by-step explanations and examples.
+This repository contains my assignment submission where I solved problems using the provided front-end template. The template is designed with fixed box layouts, fractions, arrows, highlights, and structured steps for visual explanations.
 
-📂 Project Contents
+📂 Assignment Overview
 
-✅ Solved Questions – Detailed solutions with formulas and step-by-step working.
+Template Used: Compound Interest / Interest-based Questions (Template 2)
 
-✅ Java Program – Code to calculate Compound Interest for different compounding frequencies (annual, semi-annual, quarterly, monthly, continuous).
+Problems Covered: Compound Interest
 
-✅ Excel Sheet – For quick calculations using formulas.
+Each template includes:
 
-✅ Documentation – Explanation of formulas, approach, and results.
+Fixed box layouts (number boxes, variable boxes, fraction boxes, black boxes, highlight boxes).
 
-🧮 Formula Used
+Pre-set arrows, columns, and steps.
 
-<img width="168" height="57" alt="image" src="https://github.com/user-attachments/assets/ce215fef-ab6e-47c1-bfa7-a346b2fe43af" />
+Stylized illustrations for logical flow of the solution.
+
+📝 Rules Followed
+
+✅ Replaced only numbers, variables, and calculation steps.
+
+✅ Did not modify or delete any CSS or structural layout (divs).
+
+✅ Maintained logical flow using the template arrows and boxes.
+
+✅ Used fraction, number, and variable boxes consistently.
+
+✅ Provided screenshots of the rendered output.
+
+📊 Problems Solved
+🔹 Using Template 2 (Interest-based / Powers & Multiplication)
+
+Problem 1:
+A sum of ₹1000 becomes ₹1331 in 3 years at compound interest. Find the rate of interest.
+
+Answer: Rate = 10%
+
+Problem 2:
+A sum of ₹2000 becomes ₹2205 in 2 years at compound interest. Find the rate of interest.
+
+Answer: Rate = 5%
+
+📷 Screenshots
+
+problem2.png
+📷 Screenshots
+<img width="948" height="474" alt="image" src="https://github.com/user-attachments/assets/913feedb-b834-45f8-8070-ad69e76ed16d" />
+<img width="960" height="484" alt="image" src="https://github.com/user-attachments/assets/56aef92b-c09a-48fb-a694-78c6b4f3edd6" />
 
 
-𝐴
-A = Final Amount
 
-𝑃
-P = Principal
-
-𝑟
-r = Annual Interest Rate (decimal)
-
-𝑛
-n = Number of times interest applied per year
-
-𝑡
-t = Time (years)
-
-Compound Interest (CI) = 
-𝐴
-−
-𝑃
-A−P
-
-
-
-Clone this repo:
-
-git clone <your-repo-link>
-cd compound-interest-assignment
-
-
-📊 Example Output
-Principal: 5000
-Rate: 8%
-Time: 3 years
-Compounded: Semi-Annual
------------------------------------
-Final Amount: 6326.60
-Compound Interest: 1326.60
